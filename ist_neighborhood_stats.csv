@@ -1,0 +1,952 @@
+﻿id,name,canopy_percentage,total_area (km2),area_with_canopy (km2)
+1,Piri Reis Mahallesi,1,0.77,0.01
+2,Necip Fazıl Kısakürek Mahallesi,2,0.34,0.01
+3,Hürriyet Mahallesi,2,0.57,0.01
+4,Şehitler Mahallesi,2,0.28,0.01
+5,Hürriyet Mahallesi,2,0.53,0.01
+6,Alipaşa Mahallesi,2,34.37,0.84
+7,Küçük Kılıçlı Mahallesi,3,9.79,0.31
+8,Osmangazi Mahallesi,3,3.64,0.12
+9,Gazitepe Mahallesi,4,17.83,0.62
+10,Yeşilce Mahallesi,4,0.38,0.01
+11,Fener Mahallesi,4,38.38,1.40
+12,Yenigün Mahallesi,4,0.28,0.01
+13,Yeşiltepe Mahallesi,4,0.22,0.01
+14,Gökevler Mahallesi,4,1.16,0.05
+15,Mareşal Çakmak Mahallesi,4,0.37,0.01
+16,Nine Hatun Mahallesi,4,0.50,0.02
+17,Yeni Mahalle,4,23.98,0.99
+18,Nuripaşa Mahallesi,4,0.35,0.01
+19,Sanayi Mahallesi,4,0.71,0.03
+20,Çakmaklı Mahallesi,4,5.52,0.24
+21,Sazlıbosna Mahallesi,5,20.80,0.95
+22,İsmetpaşa Mahallesi,5,0.93,0.04
+23,Şerifali Mahallesi,5,1.23,0.06
+24,Vatan Mahallesi,5,0.23,0.01
+25,Kadıköy Mahallesi,5,20.63,0.99
+26,Siyavuşpaşa Mahallesi,5,0.81,0.04
+27,Selahaddin Eyyubi Mahallesi,5,2.63,0.13
+28,Akçaburgaz Mahallesi,5,6.33,0.31
+29,Turgut Reis Mahallesi,5,0.59,0.03
+30,Haznedar Mahallesi,5,0.36,0.02
+31,Talatpaşa Mahallesi,5,0.47,0.02
+32,Yolçatı Mahallesi,5,10.99,0.59
+33,Fındıklı Mahallesi,5,1.17,0.06
+34,Esentepe Mahallesi,5,1.75,0.10
+35,Emniyetevleri Mahallesi,6,0.19,0.01
+36,Saadetdere Mahallesi,6,0.35,0.02
+37,Feriköy Mahallesi,6,0.24,0.01
+38,Namık Kemal Mahallesi,6,0.55,0.03
+39,Kazım Karabekir Mahallesi,6,0.43,0.02
+40,Karaağaç Mahallesi,6,28.10,1.66
+41,Akıncılar Mahallesi,6,0.26,0.02
+42,Mescit Mahallesi,6,4.27,0.25
+43,Kamiloba Mahallesi,6,14.10,0.83
+44,Mimar Sinan Mahallesi,6,0.17,0.01
+45,Altınşehir Mahallesi,6,0.85,0.05
+46,Telsiz Mahallesi,6,0.55,0.03
+47,Semizkumlar Mahallesi,6,13.52,0.82
+48,Çilingir Mahallesi,6,12.83,0.79
+49,Fatih Mahallesi,6,0.66,0.04
+50,Davutpaşa Mahallesi,6,0.21,0.01
+51,Malkoçoğlu Mahallesi,6,0.63,0.04
+52,Gökalp Mahallesi,6,0.29,0.02
+53,Soğanlı Mahallesi,6,0.96,0.06
+54,Fatih Mahallesi,6,0.51,0.03
+55,Çınar Mahallesi,6,0.53,0.03
+56,50. Yıl Mahallesi,6,1.14,0.07
+57,Sultançiftliği Mahallesi,6,0.61,0.04
+58,Nakkaş Mahallesi,6,46.67,2.97
+59,Akşemseddin Mahallesi,6,0.71,0.05
+60,Ergenekon Mahallesi,6,0.10,0.01
+61,Evliya Çelebi Mahallesi,6,0.06,0.00
+62,İzzettin Mahallesi,7,22.91,1.50
+63,Selimpaşa Mahallesi,7,18.05,1.19
+64,Barbaros Hayrettin Paşa Mahallesi,7,1.09,0.07
+65,Çırpıcı Mahallesi,7,0.38,0.03
+66,Sultan Murat Mahallesi,7,0.26,0.02
+67,Halaskargazi Mahallesi,7,0.10,0.01
+68,Menderes Mahallesi,7,0.45,0.03
+69,Mehmet Akif Mahallesi,7,1.10,0.07
+70,Ömerli Mahallesi,7,10.62,0.72
+71,Ferhatpaşa SB Mahallesi,7,0.39,0.03
+72,Deliklikaya Mahallesi,7,5.77,0.40
+73,Bağlarçeşme Mahallesi,7,0.60,0.04
+74,Zafer Mahallesi,7,1.08,0.08
+75,Atatürk Mahallesi,7,1.57,0.11
+76,Pınar Mahallesi,7,0.70,0.05
+77,Ovayenice Mahallesi,7,20.03,1.42
+78,Güven Mahallesi,7,0.32,0.02
+79,Çukur Mahallesi,7,0.05,0.00
+80,Yenidoğan Mahallesi,7,0.16,0.01
+81,Muratbey Merkez Mahallesi,7,18.95,1.36
+82,Bahşayiş Mahallesi,7,9.22,0.67
+83,Adnan Menderes Mahallesi,7,2.25,0.16
+84,Şirinevler Mahallesi,7,1.09,0.08
+85,Tepeüstü Mahallesi,7,0.43,0.03
+86,Kavaklı İstiklal Mahallesi,7,9.46,0.70
+87,Ferhatpaşa Mahallesi,7,25.62,1.90
+88,Ortabayır Mahallesi,7,0.38,0.03
+89,Merkez Mahallesi,7,0.85,0.06
+90,Celaliye Mahallesi,7,13.31,1.00
+91,Firuzköy Mahallesi,8,12.44,0.93
+92,Mehmet Akif Mahallesi,8,0.74,0.06
+93,Çakmak Mahallesi,8,0.86,0.06
+94,Yeşilbayır Mahallesi,8,14.19,1.07
+95,Rüstempaşa Mahallesi,8,0.10,0.01
+96,Nenehatun Mahallesi,8,1.23,0.09
+97,Muratpaşa Mahallesi,8,0.81,0.06
+98,İzzetpaşa Mahallesi,8,0.18,0.01
+99,Göztepe Mahallesi,8,1.62,0.12
+100,Sanayi Mahallesi,8,13.74,1.06
+101,Çeliktepe Mahallesi,8,0.52,0.04
+102,İncirtepe Mahallesi,8,0.38,0.03
+103,Duatepe Mahallesi,8,0.14,0.01
+104,Sururi Mahallesi,8,0.06,0.00
+105,Merkez Mahallesi,8,0.79,0.06
+106,Güzelyurt Mahallesi,8,0.97,0.08
+107,Yeniköy Mahallesi,8,32.39,2.61
+108,Yeşilkent Mahallesi,8,5.07,0.41
+109,Yavuz Selim Mahallesi,8,0.24,0.02
+110,Barbaros Hayrettin Paşa Mahallesi,8,0.92,0.08
+111,Bozkurt Mahallesi,8,0.18,0.01
+112,Koza Mahallesi,8,1.36,0.11
+113,Mimar Sinan Mahallesi,8,8.41,0.70
+114,Kumburgaz Mahallesi,8,4.04,0.34
+115,Kemalpaşa Mahallesi,8,0.57,0.05
+116,Şemsipaşa Mahallesi,8,0.36,0.03
+117,Yunus Emre Mahallesi,8,0.49,0.04
+118,Başakşehir Mahallesi,8,8.25,0.69
+119,Asmalı Mescit Mahallesi,8,0.09,0.01
+120,Örnek Mahallesi,8,0.50,0.04
+121,Çanta Sancaktepe Mahallesi,9,15.63,1.34
+122,Battalgazi Mahallesi,9,0.56,0.05
+123,İstiklal Mahallesi,9,0.44,0.04
+124,Yenidoğan Mahallesi,9,0.82,0.07
+125,İstiklal Mahallesi,9,1.00,0.09
+126,Beylikdüzü Organize Sanayi Bölgesi,9,1.52,0.14
+127,Kayışdağı Mahallesi,9,1.83,0.16
+128,Yeşilkent Mahallesi,9,1.10,0.10
+129,Tatlısu Mahallesi,9,1.02,0.09
+130,Fatih Mahallesi,9,2.74,0.25
+131,15 Temmuz Mahallesi,9,1.89,0.17
+132,Başak Mahallesi,9,24.53,2.24
+133,Terazidere Mahallesi,9,0.49,0.04
+134,Tahtakale Mahallesi,9,11.40,1.04
+135,Altıntepsi Mahallesi,9,1.27,0.12
+136,Yahya Kemal Mahallesi,9,0.33,0.03
+137,Yeşilova Mahallesi,9,0.58,0.05
+138,Karlıtepe Mahallesi,9,0.33,0.03
+139,Yenikent Mahallesi,9,0.45,0.04
+140,Hürriyet Mahallesi,10,0.47,0.04
+141,İkitelli OSB Mahallesi,10,6.84,0.65
+142,Gülbahar Mahallesi,10,0.42,0.04
+143,Bülbül Mahallesi,10,0.09,0.01
+144,Mahmut Şevket Paşa Mahallesi,10,0.34,0.03
+145,Adnan Kahveci Mahallesi,10,4.54,0.44
+146,Elbasan Mahallesi,10,15.97,1.56
+147,Fatih Mahallesi,10,0.54,0.05
+148,Mesihpaşa Mahallesi,10,0.08,0.01
+149,Kemalpaşa Mahallesi,10,0.32,0.03
+150,Veliefendi Mahallesi,10,0.40,0.04
+151,Yıldıztepe Mahallesi,10,0.60,0.06
+152,Mecidiyeköy Mahallesi,10,0.45,0.04
+153,Havaalanı Mahallesi,10,0.62,0.06
+154,Bostan Mahallesi,10,0.06,0.01
+155,100. Yıl Mahallesi,10,1.32,0.13
+156,Ferhatpaşa Mahallesi,10,3.87,0.39
+157,Süleymaniye Mahallesi,10,0.54,0.05
+158,Tahtakale Mahallesi,10,0.05,0.00
+159,Aydıntepe Mahallesi,10,2.93,0.30
+160,Ramazanoğlu Mahallesi,10,2.15,0.22
+161,Kayabaşı Mahallesi,10,13.74,1.42
+162,Bahçelievler Mahallesi,10,7.17,0.74
+163,Mahmutbey Mahallesi,10,4.71,0.49
+164,Şamlar Mahallesi,10,9.34,0.97
+165,Hilal Mahallesi,10,2.45,0.25
+166,Çınar Mahallesi,10,0.55,0.06
+167,Muhsine Hatun Mahallesi,10,0.13,0.01
+168,Mehterçeşme Mahallesi,10,0.61,0.06
+169,Kavaklı Hürriyet Mahallesi,10,6.07,0.63
+170,Kemankeş Karamustafa Paşa Mahallesi,10,0.14,0.01
+171,Parseller Mahallesi,11,1.00,0.10
+172,Atatürk Mahallesi,11,1.62,0.17
+173,Orhan Gazi Mahallesi,11,3.52,0.37
+174,İnönü Mahallesi,11,1.25,0.13
+175,Mehmet Akif Ersoy Mahallesi,11,2.10,0.22
+176,Dursunköy Mahallesi,11,27.01,2.85
+177,Akevler Mahallesi 7 sokak,11,0.53,0.06
+178,Ulus Mahallesi,11,4.69,0.50
+179,Piri Mehmet Paşa Mahallesi,11,0.56,0.06
+180,Dumlupınar Mahallesi,11,0.78,0.08
+181,Güneştepe Mahallesi,11,0.74,0.08
+182,İnönü Mahallesi,11,0.49,0.05
+183,Karadeniz Mahallesi,11,1.39,0.15
+184,Cihangir Mahallesi,11,3.73,0.40
+185,Katip Mustafa Çelebi Mahallesi,11,0.09,0.01
+186,Namık Kemal Mahallesi,11,0.24,0.03
+187,Fevzi Çakmak Mahallesi,11,0.52,0.06
+188,Yeni Mahalle Mahallesi,11,0.88,0.10
+189,Yeşilköy Mahallesi,11,12.35,1.36
+190,Tepeören Mahallesi,11,26.15,2.87
+191,Finanskent Mahallesi,11,1.50,0.16
+192,Zafer Mahallesi,11,1.64,0.18
+193,Yunus Emre Mahallesi,11,1.27,0.14
+194,Üçevler Mahallesi,11,0.44,0.05
+195,Çakıl Mahallesi,11,20.87,2.30
+196,Mimar Kemalettin Mahallesi,11,0.15,0.02
+197,Yamanevler Mahallesi,11,1.37,0.15
+198,Akören Mahallesi,11,44.85,4.98
+199,Hürriyet Mahallesi,11,0.45,0.05
+200,Zümrütevler Mahallesi,11,3.25,0.36
+201,Cumhuriyet Mahallesi,11,0.35,0.04
+202,Mehmet Nesih Özmen Mahallesi,11,0.97,0.11
+203,Armağanevler Mahallesi,11,1.11,0.13
+204,Şirintepe Mahallesi,11,0.38,0.04
+205,Cumhuriyet Mahallesi,11,0.70,0.08
+206,Hüseyinağa Mahallesi,11,0.06,0.01
+207,Hürriyet Mahallesi,11,0.59,0.07
+208,Sümer Mahallesi,11,0.67,0.08
+209,Kavaklı Mahallesi,11,5.26,0.60
+210,19 Mayıs Mahallesi,11,7.77,0.89
+211,Ortaköy Mahallesi,12,16.75,1.93
+212,Sarıgöl Mahallesi,12,0.60,0.07
+213,Harmandere Mahallesi,12,1.25,0.15
+214,Orhanlı Mahallesi,12,8.35,0.98
+215,Sultaniye Mahallesi,12,0.53,0.06
+216,Cumhuriyet Mahallesi,12,3.60,0.42
+217,Haraççı Mahallesi,12,8.66,1.02
+218,Gültepe Mahallesi,12,0.20,0.02
+219,Eskişehir Mahallesi,12,0.19,0.02
+220,Atatürk Mahallesi,12,0.63,0.08
+221,Fevzi Çakmak Mahallesi,12,0.73,0.09
+222,Harmantepe Mahallesi,12,0.30,0.04
+223,Balıkyolu Mahallesi,12,0.55,0.07
+224,Huzur Mahallesi,12,0.62,0.07
+225,Kanarya Mahallesi,12,1.41,0.17
+226,Gürsel Mahallesi,12,0.88,0.11
+227,Hürriyet Mahallesi,12,6.89,0.83
+228,Fevzi Çakmak Mahallesi,12,1.84,0.22
+229,Piyalepaşa Mahallesi,12,0.49,0.06
+230,75. Yıl Mahallesi,12,0.98,0.12
+231,Demirkapı Mahallesi,12,1.08,0.13
+232,Katip Kasım Mahallesi,12,0.17,0.02
+233,Şahintepe Mahallesi,12,11.55,1.41
+234,Cumhuriyet Mahallesi,12,2.40,0.29
+235,Marmara Mahallesi,12,5.59,0.68
+236,Esenler Mahallesi,12,1.04,0.13
+237,Esenşehir Mahallesi,12,1.02,0.13
+238,Bağlar Mahallesi,12,1.39,0.17
+239,Kaynarca Mahallesi,12,3.23,0.40
+240,Nişanca Mahallesi,12,0.21,0.03
+241,Güllü Bağlar Mahallesi,12,1.25,0.15
+242,Fevzi Çakmak Mahallesi,12,0.72,0.09
+243,Güneşli Mahallesi,12,1.23,0.15
+244,Çatma Mescit Mahallesi,12,0.09,0.01
+245,Turgut Özal Mahallesi,13,0.64,0.08
+246,Sultan Selim Mahallesi,13,0.74,0.09
+247,Sahil Mahallesi,13,1.55,0.20
+248,Yenimahalle Mahallesi,13,0.77,0.10
+249,Kurtköy Mahallesi,13,1.83,0.23
+250,Ahmediye Mahallesi,13,3.07,0.39
+251,Yavuz Selim Mahallesi,13,0.64,0.08
+252,Güvercintepe Mahallesi,13,5.90,0.76
+253,Mimarsinan Mahallesi,13,2.26,0.29
+254,Fetihtepe Mahallesi,13,0.33,0.04
+255,Site Mahallesi,13,0.77,0.10
+256,Kâzım Karabekir Mahallesi,13,0.50,0.06
+257,Kemalpaşa Mahallesi,13,0.18,0.02
+258,Fevzi Çakmak Mahallesi,13,0.54,0.07
+259,Bağlarbaşı Mahallesi,13,0.65,0.08
+260,Oruçreis Mahallesi,13,8.78,1.15
+261,Halide Edip Adıvar Mahallesi,13,0.36,0.05
+262,19 Mayıs Mahallesi,13,0.43,0.06
+263,Mimar Hayrettin Mahallesi,13,0.11,0.01
+264,Yavuz Selim Mahallesi,13,2.05,0.27
+265,Mehmet Akif Ersoy Mahallesi,13,0.54,0.07
+266,Gültepe Mahallesi,13,0.67,0.09
+267,Esentepe Mahallesi,13,2.54,0.34
+268,Ahmet Yesevi Mahallesi,13,1.33,0.18
+269,Fikirtepe Mahallesi,13,0.52,0.07
+270,Sancaktepe Mahallesi,13,0.40,0.05
+271,İnönü Mahallesi,13,1.86,0.25
+272,Meşrutiyet Mahallesi,13,0.30,0.04
+273,Çamçeşme Mahallesi,14,1.16,0.16
+274,Uğur Mumcu Mahallesi,14,1.43,0.19
+275,Yeşilpınar Mahallesi,14,1.26,0.17
+276,Hadımköy Mahallesi,14,9.99,1.36
+277,Yeni Mahalle Mahallesi,14,0.46,0.06
+278,Gençosman Mahallesi,14,1.25,0.17
+279,Çağlayan Mahallesi,14,0.93,0.13
+280,Mavigöl Mahallesi,14,1.58,0.22
+281,Orhangazi Mahallesi,14,0.81,0.11
+282,Yakuplu Mahallesi,14,6.08,0.83
+283,Yenibosna Merkez Mahallesi,14,4.41,0.61
+284,Kartaltepe Mahallesi,14,0.84,0.12
+285,Kazım Karabekir Mahallesi,14,0.89,0.12
+286,Ziya Gökalp Mahallesi,14,8.07,1.11
+287,Telsizler Mahallesi,14,0.22,0.03
+288,Altıntepe Mahallesi,14,1.03,0.14
+289,Cevizli Mahallesi,14,2.19,0.31
+290,Cumhuriyet Mahallesi,14,0.86,0.12
+291,Aydınevler Mahallesi,14,1.41,0.20
+292,Kocatepe Mahallesi,14,0.15,0.02
+293,Mustafa Kemal Paşa Mahallesi,14,0.95,0.13
+294,Çobançeşme Mahallesi,14,1.27,0.18
+295,Kartaltepe Mahallesi,14,0.84,0.12
+296,Mercan Mahallesi,14,0.08,0.01
+297,Adil Mahallesi,14,1.91,0.28
+298,Barbaros Mahallesi,14,0.44,0.06
+299,Namık Kemal Mahallesi,15,0.81,0.12
+300,Orta Mahallesi,15,3.71,0.54
+301,Girne Mahallesi,15,0.77,0.11
+302,Aksaray Mahallesi,15,0.99,0.14
+303,Bahçeşehir 1. Kısım Mahallesi,15,8.30,1.21
+304,Yenişehir Mahallesi,15,6.61,0.97
+305,Mimar Sinan Mahallesi,15,2.96,0.44
+306,Barbaros Mahallesi,15,2.93,0.43
+307,Taşoluk Mahallesi,15,1.56,0.23
+308,Anadolu Mahallesi,15,1.56,0.23
+309,Güzelyalı Mahallesi,15,1.71,0.25
+310,Alibey Mahallesi,15,0.64,0.09
+311,Esenevler Mahallesi,15,0.63,0.09
+312,Mustafa Kemal Paşa Mahallesi,15,1.31,0.19
+313,Mareşal Fevzi Çakmak Mahallesi,15,2.56,0.38
+314,Beşyol Mahallesi,15,0.30,0.04
+315,Orta Mahallesi,15,0.83,0.12
+316,Altayçeşme Mahallesi,15,1.35,0.20
+317,Aydınlı Mahallesi,15,27.32,4.10
+318,İsmet Paşa Mahallesi,15,0.50,0.08
+319,Hastane Mahallesi,15,5.65,0.85
+320,Kirazlı Mahallesi,15,0.94,0.14
+321,İnönü Mahallesi,15,0.50,0.08
+322,Sakızağacı Mahallesi,15,0.38,0.06
+323,Bağlarbaşı Mahallesi,15,1.64,0.25
+324,Akşemsettin Mahallesi,15,1.26,0.19
+325,Hobyar Mahallesi,15,0.20,0.03
+326,Kalyoncu Kulluğu Mahallesi,15,0.05,0.01
+327,Topselvi Mahalesi,15,0.78,0.12
+328,Kocatepe Mahallesi,15,1.73,0.27
+329,Mevlana Mahallesi,15,0.85,0.13
+330,Küçükbakkalköy Mahallesi,15,2.27,0.35
+331,Tuna Mahallesi,15,0.73,0.11
+332,Gümüşpala Mahallesi,15,1.15,0.18
+333,Birlik Mahallesi,16,0.61,0.10
+334,Rami Cuma Mahallesi,16,0.23,0.04
+335,Yenisahra Mahallesi,16,0.71,0.11
+336,Oklalı Mahallesi,16,6.88,1.08
+337,İslambey Mahallesi,16,1.58,0.25
+338,Gazi Mahallesi,16,0.88,0.14
+339,Aşıkveysel Mahallesi,16,0.41,0.07
+340,Tevfikbey Mahallesi,16,1.47,0.23
+341,Fatih Mahallesi,16,2.04,0.32
+342,İnönü Mahallesi,16,0.19,0.03
+343,Maltepe Mahallesi,16,3.09,0.49
+344,Sinanpaşa Mahallesi,16,0.17,0.03
+345,Hacı Kadın Mahallesi,16,0.10,0.02
+346,Yeşilbağlar Mahallesi,16,0.37,0.06
+347,Yenişehir Mahallesi,16,0.10,0.02
+348,Çamlık Mahallesi,16,1.16,0.19
+349,Söğütlü Çeşme Mahallesi,16,1.02,0.17
+350,Rami Yeni Mahallesi,16,0.51,0.08
+351,Anadolu Mahallesi,16,1.37,0.22
+352,Yıldırım Mahallesi,16,1.49,0.24
+353,Abdurrahmangazi Mahallesi,16,3.91,0.64
+354,Barış Mahallesi,16,2.28,0.37
+355,Talatpaşa Mahallesi,16,1.11,0.18
+356,Mimar Sinan Mahallesi,16,0.50,0.08
+357,Esenyalı Mahallesi,17,0.49,0.08
+358,Dereağzı Mahallesi,17,6.60,1.09
+359,Orta Mahallesi,17,1.06,0.18
+360,Cumhuriyet Mahallesi,17,1.48,0.24
+361,Cevizli Mahallesi,17,1.68,0.28
+362,Esentepe Mahallesi,17,0.43,0.07
+363,Merkez Mahallesi,17,0.86,0.14
+364,Kavakpınar Mahallesi,17,2.86,0.48
+365,Yukarı Dudullu Mahallesi,17,1.78,0.30
+366,Zeytinlik Mahallesi,17,0.29,0.05
+367,Pınartepe Mahallesi,17,3.71,0.63
+368,Dudullu OSB Mahallesi,17,2.86,0.49
+369,Örnek Mahallesi,17,0.95,0.16
+370,Mimar Sinan Mahallesi,17,0.51,0.09
+371,Akpınar Mahallesi,17,28.48,4.88
+372,Karayolları Mahallesi,17,1.54,0.27
+373,Emin Sinan Mahallesi,17,0.07,0.01
+374,Cerrahpaşa Mahallesi,17,0.85,0.15
+375,Ekinoba Mahallesi,17,1.24,0.21
+376,Atatürk Mahallesi,17,0.75,0.13
+377,Merkez Mahallesi,17,0.86,0.15
+378,Akşemsettin Mahallesi,17,0.44,0.08
+379,Atatürk Mahallesi,17,0.97,0.17
+380,Kestanelik Mahallesi,18,10.05,1.76
+381,Şeyhli Mahallesi,18,1.33,0.23
+382,Esenkent Mahallesi,18,1.66,0.29
+383,Cevizlik Mahallesi,18,0.18,0.03
+384,Cumhuriyet Mahallesi,18,1.32,0.23
+385,Eski Habipler Mahallesi,18,0.64,0.11
+386,Atikali Mahallesi,18,0.23,0.04
+387,Keçeci Piri Mahallesi,18,0.35,0.06
+388,Merve Mahallesi,18,1.07,0.19
+389,Merkez Mahallesi,18,1.12,0.20
+390,Halkalı Merkez Mahallesi,18,4.38,0.78
+391,Kumbaba Mahallesi,18,1.83,0.33
+392,İstasyon Mahallesi,18,3.07,0.55
+393,Beyazıt Mahallesi,18,0.11,0.02
+394,Hırka-i Şerif Mahallesi,18,0.43,0.08
+395,Beştelsiz Mahallesi,18,0.58,0.10
+396,Elmalıkent Mahallesi,18,1.19,0.22
+397,Fatih Mahallesi,18,0.45,0.08
+398,Alkent 2000 Mahallesi,18,6.71,1.22
+399,Koca Mustafapaşa Mahallesi,18,0.50,0.09
+400,Kazım Karabekir Mahallesi,18,0.81,0.15
+401,Yavuz Sinan Mahallesi,18,0.05,0.01
+402,Taya Hatun Mahallesi,18,0.05,0.01
+403,Fatih Mahallesi,18,0.65,0.12
+404,Küçükyalı Merkez Mahallesi,18,1.03,0.19
+405,Osmaniye Mahallesi,19,2.35,0.44
+406,Çanta Balaban Mahallesi,19,40.20,7.47
+407,Karlıktepe Mahallesi,19,1.35,0.25
+408,Sümbül Efendi Mahallesi,19,0.34,0.06
+409,Kuloğlu Mahallesi,19,0.11,0.02
+410,Derviş Ali Mahallesi,19,0.37,0.07
+411,Yahya Kahya Mahallesi,19,0.08,0.02
+412,Balabanağa Mahallesi,19,0.11,0.02
+413,Hamidiye Mahallesi,19,1.28,0.24
+414,Cennet Mahallesi,19,0.91,0.17
+415,Hocapaşa Mahallesi,19,0.31,0.06
+416,Örnektepe Mahallesi,19,0.53,0.10
+417,Mevlana Mahallesi,19,1.44,0.27
+418,Güzelce Mahallesi,19,6.00,1.14
+419,Kuştepe Mahallesi,19,0.40,0.08
+420,Arap Cami Mahallesi,19,0.16,0.03
+421,Çınar Mahallesi,19,1.02,0.20
+422,Kadı Mehmet Efendi Mahallesi,19,0.13,0.03
+423,Hicret Mahallesi,19,0.97,0.19
+424,Seyrantepe Mahallesi,19,1.11,0.21
+425,Ali Kuşçu Mahallesi,19,0.31,0.06
+426,Çavuş Mahallesi,19,5.06,0.98
+427,Mustafa Kemal Mahallesi,19,0.60,0.12
+428,İçerenköy Mahallesi,19,3.59,0.69
+429,Bahçeşehir 2. Kısım Mahallesi,19,8.78,1.70
+430,Yalı Mahallesi,19,2.27,0.44
+431,İnönü Mahallesi,19,0.60,0.12
+432,Küçük Piyale Mahallesi,19,0.20,0.04
+433,Orta Mahallesi,19,0.31,0.06
+434,Akpınar Mahallesi,19,1.87,0.36
+435,Bahçelievler Mahallesi,19,0.78,0.15
+436,Cumhuriyet Mahallesi,20,1.27,0.25
+437,Sarıdemir Mahallesi,20,0.11,0.02
+438,İmrahor Mahallesi,20,32.76,6.45
+439,Kocasinan Merkez Mahallesi,20,1.98,0.39
+440,Yenimahalle Mahallesi,20,0.23,0.05
+441,Fatih Mahallesi,20,2.52,0.50
+442,Kazlıçeşme Mahallesi,20,2.18,0.43
+443,Yenimahalle Mahallesi,20,1.54,0.31
+444,Firuzağa Mahallesi,20,0.10,0.02
+445,Fulya Mahallesi,20,0.68,0.13
+446,Örcünlü Mahallesi,20,12.82,2.56
+447,Karagümrük Mahallesi,20,0.36,0.07
+448,Soğanlık Yeni Mahallesi,20,1.76,0.35
+449,Türkoba Mahallesi,20,11.51,2.31
+450,Hacıahmet Mahallesi,20,0.33,0.07
+451,Alemdar Mahallesi,20,0.14,0.03
+452,Eyüp Sultan Mahallesi,20,6.22,1.25
+453,Bedrettin Mahallesi,20,0.24,0.05
+454,Orhangazi Mahallesi,20,1.06,0.22
+455,Çınardere Mahallesi,20,1.16,0.24
+456,Osmangazi Mahallesi,20,3.62,0.74
+457,Molla Fenari Mahallesi,20,0.15,0.03
+458,Fevzi Çakmak Mahallesi,20,0.60,0.12
+459,Soğukpınar Mahallesi,21,0.62,0.13
+460,Topçular Mahallesi,21,1.65,0.34
+461,Mevlanakapı Mahallesi,21,0.50,0.10
+462,Bulgurlu Mahallesi,21,0.89,0.18
+463,Baklalı Mahallesi,21,17.64,3.64
+464,Muradiye Mahallesi,21,0.08,0.02
+465,Merkez Mahallesi,21,2.06,0.43
+466,Kemer Mahallesi,21,0.75,0.16
+467,Küçük Ayasofya Mahallesi,21,0.25,0.05
+468,Yunus Mahallesi,21,1.35,0.28
+469,Ünalan Mahallesi,21,1.53,0.32
+470,Yayla Mahallesi,21,0.24,0.05
+471,Aşağı Dudullu Mahallesi,21,0.98,0.20
+472,Cihangir Mahallesi,21,0.11,0.02
+473,İskenderpaşa Mahallesi,21,0.42,0.09
+474,Yedikule Mahallesi,21,0.81,0.17
+475,Kaptanpaşa Mahallesi,21,0.41,0.09
+476,Mehmet Akif Ersoy Mahallesi,21,0.58,0.12
+477,Necip Fazıl Mahallesi,21,1.74,0.37
+478,Seyitnizam Mahallesi,21,1.25,0.26
+479,Saraç İshak Mahallesi,21,0.07,0.01
+480,Tayakadın Mahallesi,21,35.17,7.43
+481,Kordonboyu Mahallesi,21,1.91,0.40
+482,Yıldıztabya Mahallesi,21,0.70,0.15
+483,Ferahevler Mahallesi,21,1.25,0.27
+484,Denizköşkler Mahallesi,21,1.69,0.36
+485,Yeni Mahallesi,21,0.78,0.17
+486,Emekyemez Mahallesi,21,0.06,0.01
+487,Hasanpaşa Mahallesi,21,0.90,0.19
+488,Esatpaşa Mahallesi,21,0.98,0.21
+489,Yenişehir Mahallesi,22,0.82,0.18
+490,Safa Mahallesi,22,0.85,0.19
+491,Atalar Mahallesi,22,1.11,0.24
+492,Şehremini Mahallesi,22,0.47,0.10
+493,Dizdariye Mahallesi,22,0.55,0.12
+494,Zeyrek Mahallesi,22,0.31,0.07
+495,Pazariçi Mahallesi,22,0.29,0.06
+496,Kemal Türkler Mahallesi,22,0.76,0.17
+497,Güzeltepe Mahallesi,22,1.63,0.36
+498,Hürriyet Mahallesi,22,2.57,0.57
+499,Adem Yavuz Mahallesi,22,0.75,0.17
+500,Feyzullah Mahallesi,22,0.82,0.18
+501,Fatih Mahallesi,22,1.50,0.34
+502,Yayalar Mahallesi,22,1.47,0.33
+503,Sülüntepe Mahallesi,23,1.38,0.31
+504,Demirtaş Mahallesi,23,0.08,0.02
+505,Tantavi Mahallesi,23,0.56,0.13
+506,Altınşehir Mahallesi,23,1.36,0.31
+507,Murat Çesme Mahallesi,23,2.43,0.55
+508,Yalı Mahallesi,23,0.53,0.12
+509,Kılıçali Paşa Mahallesi,23,0.24,0.06
+510,Seyyid Ömer Mahallesi,23,0.47,0.11
+511,Cevatpaşa Mahallesi,23,0.59,0.13
+512,Valide-i Atik Mahallesi,23,0.42,0.10
+513,Hacı Kasım Mahallesi,23,0.21,0.05
+514,Yeni Çamlıca Mahallesi,23,0.74,0.17
+515,Nurtepe Mahallesi,23,0.78,0.18
+516,Yavuztürk Mahallesi,23,1.77,0.40
+517,Mevlana Mahallesi,23,0.98,0.22
+518,İdealtepe Mahallesi,23,1.25,0.29
+519,Cebeci Mahallesi,23,10.87,2.52
+520,Sapan Bağları Mahallesi,23,0.50,0.12
+521,Atakent Mahallesi,23,0.95,0.22
+522,Selimiye Mahallesi,23,1.65,0.39
+523,Haseki Sultan Mahallesi,23,0.29,0.07
+524,Pınar Mahallesi,23,0.76,0.18
+525,Yeşilyurt Mahallesi,24,1.58,0.37
+526,Çavuşoğlu Mahallesi,24,1.38,0.33
+527,Dikilitaş Mahallesi,24,0.64,0.15
+528,Yunus Emre Mahallesi,24,1.22,0.29
+529,Ambarlı Mahallesi,24,1.92,0.45
+530,Kaptanpaşa Mahallesi,24,0.27,0.06
+531,Hasanpaşa Mahallesi,24,0.81,0.19
+532,Müeyyedzade Mahallesi,24,0.07,0.02
+533,Halil Rıfat Paşa Mahallesi,24,0.43,0.10
+534,Sururi Mehmet Efendi Mahallesi,24,0.11,0.03
+535,Zühtüpaşa Mahallesi,24,0.66,0.16
+536,Madenler Mahallesi,24,0.81,0.19
+537,Merdivenköy Mahallesi,24,1.68,0.41
+538,İstinye Mahallesi,24,1.26,0.31
+539,15 Temmuz Mahallesi,24,1.88,0.46
+540,Yavuz Sultan Selim Mahallesi,24,0.35,0.09
+541,Mevlana Mahallesi,25,0.80,0.20
+542,Silahtarağa Mahallesi,25,0.31,0.08
+543,Atakent Mahallesi,25,8.48,2.09
+544,Silivrikapı Mahallesi,25,0.31,0.08
+545,Sütlüce Mahallesi,25,0.68,0.17
+546,Cumhuriyet Mahallesi,25,0.37,0.09
+547,Halıcıoğlu Mahallesi,25,0.40,0.10
+548,Atatürk Mahallesi,25,2.52,0.62
+549,Dumlupınar Mahallesi,25,1.42,0.35
+550,Doğu Mahallesi,25,1.16,0.29
+551,Meclis Mahallesi,25,1.00,0.25
+552,Abbasağa Mahallesi,25,0.14,0.04
+553,Yenidoğan Mahallesi,25,1.03,0.26
+554,Aydınlar Mahallesi,25,0.65,0.16
+555,Molla Hüsrev Mahallesi,25,0.09,0.02
+556,Rasimpaşa Mahallesi,25,0.86,0.22
+557,Çırçır Mahallesi,25,1.04,0.26
+558,Fatih Sultan Mehmet Mahallesi,25,1.09,0.28
+559,Çeltik Mahallesi,25,33.36,8.41
+560,Camiikebir Mahallesi,26,0.43,0.11
+561,Fetih Mahallesi,26,0.42,0.11
+562,Şehsuvar Bey Mahallesi,26,0.15,0.04
+563,Hamidiye Mahallesi,26,3.08,0.80
+564,Hoca Gıyasettin Mahallesi,26,0.09,0.02
+565,Gürpınar Mahallesi,26,2.56,0.66
+566,Emniyettepe Mahallesi,26,0.74,0.19
+567,Akşemsettin Mahallesi,26,1.34,0.35
+568,Molla Gürani Mahallesi,26,0.40,0.10
+569,Cumhuriyet Mahallesi,26,0.73,0.19
+570,Düğmeciler Mahallesi,26,0.48,0.13
+571,Yukarı Mahallesi,26,0.32,0.08
+572,Alibeyköy Mahallesi,26,0.91,0.24
+573,Karadolap Mahallesi,26,1.11,0.29
+574,Batı Mahallesi,27,1.22,0.32
+575,İstiklal Mahallesi,27,0.26,0.07
+576,Sarıgazi Mahallesi,27,1.23,0.33
+577,Balat Mahallesi,27,0.40,0.11
+578,Emek Mahallesi,27,1.84,0.49
+579,Muratreis Mahallesi,27,0.38,0.10
+580,Şenlikköy Mahallesi,27,3.03,0.81
+581,İslambey Mahallesi,27,0.54,0.15
+582,Çamlık Mahallesi,27,3.25,0.88
+583,Gülsuyu Mahallesi,27,0.91,0.25
+584,Atatürk Mahallesi,27,1.24,0.34
+585,Eğitim Mahallesi,27,0.96,0.26
+586,Türkali Mahallesi,27,0.23,0.06
+587,Mimaroba Mahallesi,27,1.35,0.37
+588,Battalgazi Mahallesi,27,3.72,1.01
+589,Piri Paşa Mahallesi,27,0.49,0.13
+590,Velibaba Mahallesi,27,3.38,0.92
+591,Mecidiye Mahallesi,27,1.81,0.50
+592,Küçüksu Mahallesi,27,1.62,0.45
+593,Bahçelievler Mahallesi,28,1.58,0.44
+594,Tomtom Mahallesi,28,0.14,0.04
+595,Gümüşsuyu Mahallesi,28,0.36,0.10
+596,Cibali Mahallesi,28,0.28,0.08
+597,Abdurrahman Nafiz Gürman Mahallesi,28,0.67,0.19
+598,Kirazlıdere Mahallesi,28,0.70,0.20
+599,Ömer Avni Mahallesi,28,0.25,0.07
+600,Petrol İş Mahallesi,28,1.07,0.30
+601,Bostancı Mahallesi,28,1.77,0.50
+602,Gümüşpınar Mahallesi,28,1.16,0.33
+603,Teşvikiye Mahallesi,28,0.45,0.13
+604,Cemil Meriç Mahallesi,28,1.64,0.47
+605,Dumlupınar Mahallesi,29,1.00,0.29
+606,Ardıçlı Mahallesi,29,1.15,0.33
+607,Topkapı Mahallesi,29,0.69,0.20
+608,Sinanoba Mahallesi,29,1.60,0.47
+609,Gülensu Mahallesi,29,0.91,0.27
+610,İnkılap Mahallesi,29,3.20,0.94
+611,Cumhuriyet Mahallesi,29,0.47,0.14
+612,Bahçelievler Mahallesi,30,3.22,0.96
+613,Ataköy 1. Kısım Mahallesi,30,0.70,0.21
+614,Mehmet Akif Mahallesi,30,0.85,0.26
+615,Kozyatağı Mahallesi,30,1.44,0.44
+616,Çayırbaşı Mahallesi,30,0.48,0.15
+617,Fatih Mahallesi,30,3.57,1.08
+618,Osmanağa Mahallesi,30,0.54,0.16
+619,Merkezefendi Mahallesi,30,1.34,0.40
+620,Üniversite Mahallesi,30,2.82,0.85
+621,Büyükşehir Mahallesi,30,0.95,0.29
+622,Sahrayıcedit Mahallesi,31,1.35,0.41
+623,Kavacık Mahallesi,31,1.62,0.50
+624,Sakarya Mahallesi,31,0.44,0.14
+625,Ayvansaray Mahallesi,31,0.62,0.19
+626,Suadiye Mahallesi,31,1.49,0.46
+627,Gayrettepe Mahallesi,31,0.59,0.19
+628,Karlıbayır Mahallesi,31,1.29,0.40
+629,Kirazlıtepe Mahallesi,31,0.69,0.22
+630,Güzeltepe Mahallesi,31,1.02,0.32
+631,Kartaltepe Mahallesi,31,1.35,0.42
+632,Gökçeali Mahallesi,31,9.09,2.86
+633,Kaleiçi Mahallesi,31,23.89,7.51
+634,Büyük Kılıçlı Mahallesi,31,22.75,7.16
+635,Defterdar Mahallesi,32,0.94,0.30
+636,Sultan Ahmet Mahallesi,32,0.20,0.06
+637,Acıbadem Mahallesi,32,1.60,0.51
+638,Ağaçlı Mahallesi,32,15.54,4.94
+639,Nişancı Mahallesi,32,0.66,0.21
+640,Binbirdirek Mahallesi,32,0.16,0.05
+641,Pürtelaş Hasan Efendi Mahallesi,32,0.11,0.03
+642,Küplüce Mahallesi,32,0.86,0.28
+643,Yarımburgaz Mahallesi,33,5.22,1.70
+644,Kamer Hatun Mahallesi,33,0.06,0.02
+645,Ferah Mahallesi,33,1.07,0.35
+646,Bolluca Mahallesi,33,11.91,3.94
+647,Yenidoğan Mahallesi,33,0.32,0.10
+648,Ataköy 2-5-6. Kısım Mahallesi,33,1.23,0.41
+649,Hacımimi Mahallesi,33,0.09,0.03
+650,İnceğiz Mahallesi,33,24.81,8.24
+651,Soğuksu Mahallesi,33,0.94,0.31
+652,Habibler Mahallesi,33,6.20,2.07
+653,Büyük Çavuşlu Mahallesi,34,52.21,17.51
+654,Büyükbakkalköy Mahallesi,34,21.50,7.23
+655,Selami Ali Mahallesi,34,0.44,0.15
+656,Göztepe Mahallesi,34,1.78,0.60
+657,Caferağa Mahallesi,34,1.24,0.42
+658,Kurfallı Mahallesi,34,37.27,12.59
+659,Yunus Emre Mahallesi,34,1.05,0.36
+660,Salacak Mahallesi,34,0.43,0.15
+661,Çiftalan Mahallesi,34,18.52,6.31
+662,Çifte Havuzlar Mahallesi,34,1.18,0.40
+663,Koşuyolu Mahallesi,34,0.70,0.24
+664,Durusu Mahallesi,35,0.36,0.12
+665,İhsaniye Mahallesi,35,5.05,1.74
+666,Şahkulu Mahallesi,35,0.08,0.03
+667,Hekimbaşı Mahallesi,35,1.64,0.57
+668,Topağacı Mahallesi,35,1.29,0.45
+669,Feneryolu Mahallesi,35,1.02,0.35
+670,Uğur Mumcu Mahallesi,35,1.76,0.62
+671,Acıbadem Mahallesi,35,1.45,0.51
+672,Ortaçeşme Mahallesi,35,0.81,0.29
+673,Vişnezade Mahallesi,35,0.66,0.23
+674,Burhaniye Mahallesi,35,1.55,0.55
+675,Bereketzade Mahallesi,35,0.07,0.03
+676,Hamidiye Mahallesi,36,1.00,0.36
+677,Kalenderhane Mahallesi,36,0.13,0.05
+678,Poligon Mahallesi,36,0.91,0.33
+679,Orhantepe Mahallesi,36,2.90,1.04
+680,Aziz Mahmut Hüdayi Mahallesi,36,0.34,0.12
+681,Caddebostan Mahallesi,36,1.67,0.60
+682,Beyciler Mahallesi,36,27.99,10.13
+683,Çiğdem Mahallesi,36,0.89,0.32
+684,Balmumcu Mahallesi,36,0.56,0.20
+685,İcadiye Mahallesi,37,0.49,0.18
+686,Ahmediye Mahallesi,37,0.23,0.08
+687,Yalıköy Mahallesi,37,1.02,0.38
+688,Esenkent Mahallesi,37,1.22,0.45
+689,Mimar Sinan Mahallesi,38,1.30,0.49
+690,Ihlamurkuyu Mahallesi,38,1.37,0.52
+691,5. Levent Mahallesi,38,8.17,3.11
+692,Fenerbahçe Mahallesi,38,1.69,0.64
+693,Süleymaniye Mahallesi,38,0.29,0.11
+694,Riva Mahallesi,38,22.55,8.62
+695,Seymen Mahallesi,38,50.39,19.26
+696,Baltalimanı Mahallesi,38,0.89,0.34
+697,Erenköy Mahallesi,38,1.35,0.52
+698,Paşabahçe Mahallesi,38,0.57,0.22
+699,Esentepe Mahallesi,38,1.53,0.59
+700,Kısıklı Mahallesi,39,1.50,0.58
+701,Reşitpaşa Mahallesi,39,2.71,1.05
+702,Huzur Mahallesi,39,2.39,0.93
+703,Akfırat Mahallesi,39,26.06,10.16
+704,Çengelköy Mahallesi,39,1.66,0.65
+705,Çubuklu Mahallesi,40,2.35,0.93
+706,19 Mayıs Mahallesi,40,1.34,0.53
+707,Nişantepe Mahallesi,40,4.17,1.65
+708,Nisbetiye Mahallesi,40,1.02,0.41
+709,Yassıören Mahallesi,40,41.44,16.46
+710,Yayla Mahallesi,40,4.76,1.90
+711,Çamlıbahçe Mahallesi,40,0.51,0.20
+712,Göksu Mahallesi,40,0.73,0.29
+713,Harbiye Mahallesi,40,0.77,0.31
+714,Mehmet Akif Mahallesi,40,2.08,0.84
+715,Mehmet Akif Ersoy Mahallesi,40,1.08,0.44
+716,Ataköy 7-8-9-10. Kısım Mahallesi,40,2.07,0.84
+717,Ahmetli Mahallesi,41,6.38,2.59
+718,Işıklar Mahallesi,41,10.93,4.45
+719,Tozkoparan Mahallesi,41,0.83,0.34
+720,Çamlık Mahallesi,41,0.65,0.27
+721,Boyalık Mahallesi,41,28.42,11.72
+722,Küçük Çamlıca Mahallesi,41,2.44,1.01
+723,Kumköy (Kilyos) Mahallesi,41,3.65,1.51
+724,Esenkent Mahallesi,42,0.76,0.32
+725,Fatih Mahallesi,42,1.51,0.63
+726,Aşık Veysel Mahallesi,42,0.84,0.35
+727,Subaşı Mahallesi,42,18.80,7.91
+728,Kurna Mahallesi,42,31.90,13.46
+729,Etiler Mahallesi,42,1.22,0.52
+730,Paşa Mahallesi,42,0.74,0.32
+731,Göçe Mahallesi,42,5.60,2.38
+732,Cihannüma Mahallesi,42,0.27,0.11
+733,Altunizade Mahallesi,43,1.76,0.75
+734,Ağva Merkez Mahallesi,43,1.74,0.75
+735,Levazım Mahallesi,43,0.76,0.33
+736,Kurtdoğmuş Mahallesi,43,32.11,13.89
+737,Mecidiye Mahallesi,44,0.57,0.25
+738,İncirköy Mahallesi,44,1.99,0.87
+739,Gümüşsuyu Mahallesi,44,2.46,1.09
+740,Abdurrahmangazi Mahallesi,44,2.07,0.92
+741,Merkez Mahallesi,44,0.88,0.39
+742,Büyükdere Mahallesi,44,1.18,0.52
+743,Cankurtaran Mahallesi,44,0.88,0.39
+744,Kireçburnu Mahallesi,44,0.65,0.29
+745,Zuhuratbaba Mahallesi,45,1.83,0.82
+746,Ortaköy Mahallesi,45,0.84,0.38
+747,Kültür Mahallesi,45,0.73,0.33
+748,Yavuz Selim Mahallesi,45,1.69,0.76
+749,Kınalıada Mahallesi,45,1.48,0.67
+750,Sultantepe Mahallesi,45,0.52,0.23
+751,Arnavutköy Mahallesi,45,0.41,0.19
+752,Kulaksız Mahallesi,45,0.28,0.13
+753,Emirli Mahallesi,46,14.17,6.46
+754,Hacımaşlı Mahallesi,46,30.80,14.14
+755,Konaklar Mahallesi,46,2.63,1.21
+756,Yeniköy Mahallesi,46,2.15,0.99
+757,Kızılcaali Mahallesi,46,11.79,5.44
+758,Zeynep Kamil Mahallesi,46,0.38,0.18
+759,Kurfallı Mahallesi,46,4.72,2.19
+760,Yakacık Çarşı Mahallesi,47,3.98,1.86
+761,Meşrutiyet Mahallesi,47,3.30,1.55
+762,Gümüşdere Mahallesi,47,9.59,4.51
+763,Başıbüyük Mahallesi,47,10.15,4.78
+764,Yeni Mahalle,47,0.59,0.28
+765,Ulus Mahallesi,47,0.52,0.25
+766,Rumelihisarı Mahallesi,47,0.95,0.45
+767,Emirgan Mahallesi,48,1.33,0.64
+768,Ertuğrul Gazi Mahallesi,48,2.39,1.14
+769,Akat Mahallesi,48,1.53,0.73
+770,Balaban Mahallesi,48,45.90,22.01
+771,Cumhuriyet Mahallesi,48,1.14,0.55
+772,Ahmet Yesevi Mahallesi,48,1.69,0.81
+773,Göztepe Mahallesi,48,2.60,1.26
+774,Yeni Mahalle Mahallesi,48,2.48,1.20
+775,Barbaros Mahallesi,49,1.47,0.72
+776,Beylerbeyi Mahallesi,49,1.14,0.56
+777,Balibey Mahallesi,49,5.46,2.67
+778,Burgazada Mahallesi,49,1.61,0.79
+779,Darüşşafaka Mahallesi,49,1.43,0.70
+780,Karaburun Mahallesi,49,7.42,3.66
+781,Çiftlik Mahallesi,49,4.09,2.02
+782,Çanakça Mahallesi,50,12.49,6.19
+783,Levent Mahallesi,50,1.08,0.54
+784,Geredeli Mahallesi,50,14.68,7.30
+785,Zübeyde Hanım Mahallesi,50,3.69,1.84
+786,Tarabya Mahallesi,50,2.56,1.28
+787,Odayeri Mahallesi,51,7.97,4.10
+788,Veysel Karani Mahallesi,51,3.16,1.63
+789,Çengeldere Mahallesi,52,5.22,2.70
+790,Paşaköy Mahallesi,52,27.39,14.17
+791,Dağyenice Mahallesi,52,21.89,11.34
+792,Maden Mahallesi,53,3.96,2.11
+793,Yıldız Mahallesi,53,1.12,0.60
+794,Bucaklı Mahallesi,53,16.23,8.66
+795,Merkez Mahallesi,54,1.36,0.73
+796,Celepköy Mahallesi,54,28.04,15.09
+797,Büyük Sinekli Mahallesi,54,22.01,11.88
+798,Necip Fazıl Mahallesi,54,3.29,1.78
+799,Basınköy Mahallesi,54,1.51,0.82
+800,İsaköy Mahallesi,55,4.42,2.42
+801,Terkos Mahallesi,55,18.83,10.31
+802,Yavuz Selim Mahallesi,55,13.49,7.39
+803,Kuruçeşme Mahallesi,55,1.01,0.55
+804,Turgut Reis Mahallesi,55,1.79,0.99
+805,Sahilköy Mahallesi,56,19.78,11.03
+806,Ekşioğlu Mahallesi,56,4.11,2.30
+807,Rüzgarlıbahçe Mahallesi,56,3.43,1.92
+808,Anadolu Hisarı Mahallesi,56,0.99,0.56
+809,Bebek Mahallesi,57,1.24,0.70
+810,Alibahadır Mahallesi,57,11.23,6.35
+811,Uskumruköy Mahallesi,57,15.99,9.09
+812,Merkez Mahallesi,57,10.11,5.78
+813,Acarlar Mahallesi,57,5.42,3.11
+814,Örnekköy Mahallesi,58,3.70,2.13
+815,Kandilli Mahallesi,58,1.21,0.70
+816,Bekirli Mahallesi,58,15.61,9.08
+817,Kabakça Mahallesi,58,21.23,12.35
+818,Örencik Mahallesi,58,24.33,14.18
+819,Kısırkaya Mahallesi,59,9.86,5.81
+820,Kuzguncuk Mahallesi,60,1.50,0.90
+821,Pirinççi Mahallesi,60,27.09,16.28
+822,Kuleli Mahallesi,61,0.72,0.44
+823,Fatih Sultan Mehmet Mahallesi,61,4.09,2.48
+824,Zekeriyaköy Mahallesi,61,11.67,7.08
+825,Kanlıca Mahallesi,61,1.31,0.80
+826,Ballıca Mahallesi,61,24.22,14.73
+827,Hüseyinli Mahallesi,61,13.10,8.01
+828,Göçbeyli Mahallesi,62,25.01,15.40
+829,Maslak Mahallesi,62,5.04,3.11
+830,Çiftlikköy,62,26.59,16.57
+831,Ataköy 3-4-11. Kısım Mahallesi,63,0.64,0.40
+832,Güngören Mahallesi,63,2.52,1.60
+833,Çayırbaşı Mahallesi,64,4.04,2.57
+834,Akalan Mahallesi,64,16.70,10.67
+835,Anadolufeneri Mahallesi,64,16.90,10.87
+836,Hisarbeyli Mahallesi,64,10.27,6.61
+837,Yazlık Mahallesi,64,20.50,13.20
+838,Ayazağa Mahallesi,65,17.22,11.21
+839,Baklacı Mahallesi,65,11.76,7.67
+840,Yakacık Yeni Mahallesi,65,7.86,5.14
+841,Ormanlı Mahallesi,66,33.02,21.74
+842,Sultançiftliği Mahallesi,67,4.25,2.83
+843,Mimar Sinan Mahallesi,67,16.87,11.25
+844,Koçullu Mahallesi,67,13.75,9.21
+845,Çayırdere Mahallesi,67,60.04,40.24
+846,Tokatköy Mahallesi,68,4.06,2.76
+847,Esenceli Mahallesi,68,19.03,12.93
+848,Elmalı Mahallesi,69,4.36,2.99
+849,Garipçe Mahallesi,69,3.91,2.69
+850,Kurna Mahallesi,69,13.40,9.27
+851,Başak Mahallesi,70,12.07,8.40
+852,Göllü Mahallesi,70,14.64,10.27
+853,Taşdelen Mahallesi,70,3.22,2.26
+854,Ömerli Mahallesi,70,47.17,33.14
+855,Maden Mahallesi,71,2.52,1.78
+856,Boğazköy İstiklal Mahallesi,71,29.23,20.67
+857,Görele Mahallesi,71,2.92,2.07
+858,Merkez Mahallesi,71,3.56,2.52
+859,Şuayipli Mahallesi,71,10.43,7.44
+860,Arnavutköy Merkez Mahallesi,71,6.77,4.84
+861,Hasanlı Mahallesi,72,11.84,8.49
+862,Heybeliada Mahallesi,72,2.50,1.80
+863,Cumhuriyet Mahallesi,72,10.59,7.63
+864,Göktürk Merkez Mahallesi,72,27.28,19.68
+865,Mudarlı Mahallesi,72,51.91,37.50
+866,Sırapınar Mahallesi,72,9.12,6.60
+867,Alacalı Mahallesi,73,17.45,12.66
+868,Nizam Mahallesi,73,3.22,2.34
+869,Çamlıtepe Mahallesi,73,1.46,1.06
+870,Karakiraz Mahallesi,73,20.13,14.74
+871,Kalem Mahallesi,73,19.36,14.23
+872,Kocataş Mahallesi,74,2.01,1.48
+873,Avcıkoru Mahallesi,74,19.77,14.63
+874,Karacaköy Mahallesi,74,7.70,5.70
+875,Ovacık Mahallesi,74,32.57,24.13
+876,Çatalmeşe Mahallesi,74,5.67,4.21
+877,İmrendere Mahallesi,75,10.20,7.66
+878,Rumelifeneri Mahallesi,75,12.64,9.53
+879,Üvezli Mahallesi,75,16.20,12.22
+880,Poyrazköy Mahallesi,76,8.55,6.46
+881,Demirciköy Mahallesi,76,11.18,8.48
+882,İshaklı Mahallesi,76,12.34,9.37
+883,Kervansaray Mahallesi,76,39.38,30.05
+884,Doğancılı Mahallesi,77,15.39,11.78
+885,İmrenli Mahallesi,77,8.70,6.66
+886,Paşamandıra Mahallesi,77,12.06,9.28
+887,Yaka Mahallesi,77,19.54,15.04
+888,Gökmaşlı Mahallesi,77,5.17,3.99
+889,Mithatpaşa Mahallesi,78,49.58,38.50
+890,Zerzavatçı Mahallesi,78,3.48,2.70
+891,Akçakese Mahallesi,78,7.70,5.99
+892,Mahmutşevketpaşa Mahallesi,78,16.08,12.52
+893,Fatih Mahallesi,78,3.61,2.82
+894,Soğullu Mahallesi,79,17.39,13.67
+895,Sofular Mahallesi,79,15.98,12.57
+896,Tepemanayır Mahallesi,79,11.87,9.40
+897,Bahçeköy Yeni Mahalle,80,1.50,1.19
+898,Aydınlar Mahallesi,80,35.64,28.67
+899,Karacaköy Merkez Mahallesi,81,67.71,54.56
+900,Ovacık Mahallesi,81,8.10,6.56
+901,Öğümce Mahallesi,81,10.60,8.60
+902,Sayalar Mahallesi,81,43.21,35.06
+903,Korucu Mahallesi,82,4.14,3.37
+904,Çengilli Mahallesi,82,12.77,10.44
+905,Çataklı Mahallesi,82,17.82,14.57
+906,Kızılcaköy Mahallesi,82,22.80,18.67
+907,Kalfa Mahallesi,82,26.06,21.37
+908,Belgrat Mahallesi,82,27.59,22.69
+909,Kabakoz Mahallesi,82,18.74,15.41
+910,Teke Mahallesi,82,36.02,29.64
+911,Alemdağ Mahallesi,83,9.03,7.46
+912,Akbaba Mahallesi,83,4.49,3.72
+913,Osmanköy Mahallesi,83,10.89,9.03
+914,İhsaniye Mahallesi,83,64.87,53.92
+915,Anadolu Kavağı Mahallesi,83,5.24,4.36
+916,Satmazlı Mahallesi,83,8.43,7.02
+917,Rumelikavağı Mahallesi,84,4.59,3.84
+918,Danamandıra Mahallesi,84,45.24,37.88
+919,Darlık Mahallesi,84,17.76,14.93
+920,Kaynarca Mahallesi,85,5.55,4.70
+921,Hacıllı Mahallesi,85,15.14,12.84
+922,Göksu Mahallesi,85,22.86,19.45
+923,Yazımanayır Mahallesi,85,13.31,11.34
+924,Oruçoğlu Mahallesi,85,21.99,18.77
+925,Yalıköy Mahallesi,85,80.54,68.78
+926,Bıçkıdere Mahallesi,86,9.82,8.41
+927,Ağaçdere Mahallesi,86,6.65,5.71
+928,Yaylacık Mahallesi,86,4.97,4.27
+929,Dereseki Mahallesi,86,8.75,7.52
+930,Kılıçlı Mahallesi,86,16.87,14.53
+931,Gümüşpınar Mahallesi,86,32.64,28.12
+932,PTT Evleri Mahallesi,86,4.45,3.84
+933,Kazım Karabekir Paşa Mahallesi,86,5.23,4.51
+934,Bozgoca Mahallesi,86,4.07,3.52
+935,Kömürlük Mahallesi,87,11.20,9.78
+936,Yaylalı Mahallesi,88,7.64,6.71
+937,Küçük Sinekli Mahallesi,88,26.49,23.29
+938,Sortullu Mahallesi,88,6.49,5.72
+939,Reşadiye Mahallesi,89,19.41,17.36
+940,Yeşilvadi Mahallesi,89,16.14,14.44
+941,Karamandere Mahallesi,90,28.90,25.98
+942,Bozhane Mahallesi,90,14.38,12.96
+943,Karabeyli Mahallesi,91,12.06,11.01
+944,Karamandere Mahallesi,92,11.50,10.55
+945,Yeniköy Mahallesi,92,22.00,20.20
+946,Fatih Mahallesi,92,169.36,155.86
+947,Ulupelit Mahallesi,92,14.29,13.18
+948,Bahçeköy Kemer Mahallesi,93,14.84,13.85
+949,Erenler Mahallesi,94,15.26,14.28
+950,Bahçeköy Merkez Mahallesi,96,11.89,11.44
+951,Polonezköy Mahallesi,96,29.30,28.18
